@@ -1,17 +1,17 @@
 # Site settings
-title: 尴尬😅
-SEOTitle: 还没清理、整理文章～图片～名字～
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+title: willingseal😅
+SEOTitle: willingseal❤️
+header-img: img/setup_home_top_bg.jpg
+email: willingseal@gmail.com
+description: "～～合适的才是适合的～～."
+keyword: "产品设计, UI设计, willingseal的博客, willingseal, iOS, Apple, iPhone"
 url: "https://willingseal.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/willingseal/willingseal.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "产品小❤️❤️在膨胀～."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
